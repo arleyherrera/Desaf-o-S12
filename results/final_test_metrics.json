@@ -1,0 +1,11 @@
+{
+    "timestamp": "2025-11-14T16:07:06.609433",
+    "dataset": "test",
+    "model_name": "LogisticRegression",
+    "test_size": 20734,
+    "accuracy": 0.8667888492331436,
+    "precision": 0.9202191405581236,
+    "recall": 0.8545310015898251,
+    "f1": 0.8861594262632924,
+    "roc_auc": 0.9379470432645345
+}

@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Train Time (s)
+Naive Bayes,0.8578,0.9024,0.8584,0.8799,0.9329,0.02
+Logistic Regression,0.8659,0.9191,0.8541,0.8854,0.9382,2.11
+Linear SVM,0.8647,0.9191,0.8520,0.8843,0.9386,1.09
+Random Forest,0.7307,0.9291,0.6021,0.7307,0.8736,8.30

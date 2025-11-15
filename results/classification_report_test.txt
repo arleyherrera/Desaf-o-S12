@@ -1,0 +1,12 @@
+REPORTE DE CLASIFICACIÓN - CONJUNTO DE TEST
+======================================================================
+Fecha: 2025-11-14 16:07:06
+
+                 precision    recall  f1-score   support
+
+     Actualidad     0.7978    0.8857    0.8395      8154
+Interés General     0.9202    0.8545    0.8862     12580
+
+       accuracy                         0.8668     20734
+      macro avg     0.8590    0.8701    0.8628     20734
+   weighted avg     0.8721    0.8668    0.8678     20734
